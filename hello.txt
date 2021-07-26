@@ -1,4 +1,4 @@
 hello git!
 my frist git code!
 newadd hi!
-newnewadd code bye!
+newnewadd code bye! master test.
