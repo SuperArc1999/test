@@ -1,2 +1,3 @@
 hello git!
 my frist git code!
+newadd hi!
