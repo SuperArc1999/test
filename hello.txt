@@ -2,3 +2,4 @@ hello git!
 my frist git code!
 newadd hi! master master!
 newnewadd code bye! master test.
+This is the GitHub test!
